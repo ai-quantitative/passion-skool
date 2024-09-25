@@ -1,13 +1,15 @@
 ---
-title: "Vis ton rêve grâce à Skool"
+title: "Vivre de sa Passion grâce à Skool.com"
 image: 
-  #path: /images/skool-reve-hero.png
+  path: /images/vivre-passion-skool-hero.png
   thumbnail: /images/skool-reve-hero.png
-  #caption: "Gros MRR sur Skool"
+  caption: "Gros Revenus Mensuels Récurrents (MRR) sur Skool"
 categories:
-  - General
+  - Skool
 tags:
-  - General
+  - Passion
+  - Skool
+  - Argent
   #- passion
 last_modified_at: 2024-09-24T14:25:52-05:00
 ---
@@ -18,7 +20,7 @@ Des milliers de personnes vivent de leur passion en créant et monétisant des c
 Voici une capture d'écran des meilleures performances de revenus récurrents mensuels (MRR) réalisées par les meilleurs pour le mois d'août seulement.
 
 <figure class="align-center">
-  <a href="#"><img src="{{ '/images/august-leaderboard-MRR.png' | absolute_url }}" alt=""></a>
+  <a href="#"><img src="{{ '/skool/images/august-leaderboard-MRR.png' | absolute_url }}" alt=""></a>
   <figcaption>Certains ont des revenus mensuels qui donnent envie!</figcaption>
 </figure>
 
@@ -52,14 +54,14 @@ Tu as une passion? → D’autres la partagent sûrement !
 Voici les différentes catégories de thèmes possibles. Comme tu peux le voir, il y en a pour tous les goûts !
 
 <figure class="align-center">
-  <a href="#"><img src="{{ '/images/Skool-categories.png' | absolute_url }}" alt=""></a>
+  <a href="#"><img src="{{ '/skool/images/Skool-categories.png' | absolute_url }}" alt=""></a>
   <figcaption>Il existe 21 catégories différentes, ici je montre 'Arts and Crafts'</figcaption>
 </figure>
 
 
 Ici, voici exemple de l’une des communauté francaise:  
 <figure class="align-center">
-  <a href="#"><img src="{{ '/images/Crossfit-Skool-example.png' | absolute_url }}" alt=""></a>
+  <a href="#"><img src="{{ '/skool/images/Crossfit-Skool-example.png' | absolute_url }}" alt=""></a>
   <figcaption>"Le Club" (Crossfit) générant tout de même ~2.000 euros/mois !  (au moment de la capture d'écran)</figcaption>
 </figure>
 
@@ -69,7 +71,6 @@ Le meilleur moment pour démarrer, c'était hier ; le second meilleur moment, c'
 À cette heure, il n'y a encore **<mark>presque pas de communautés en français</mark>** ! 
 
 Il y a donc une opportunité à saisir en devenant l'un des pionniers et 'early adopteurs' de la plateforme Skool. 
-
 
 <div style="background-color: lightblue; padding: 10px; border-radius: 5px;">
 💡 Mais quelle que soit la plateforme, chaque jour qui passe, quelqu'un d'autre se jette à l'eau et commence son aventure. 
