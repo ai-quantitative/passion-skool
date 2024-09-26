@@ -1,9 +1,10 @@
 # Sample Authors
 # Remove file or replace with your own
 
-Billy Rick:
-  name: Guillaume Moog
+Guillaume:
+  name: Guillaume
   picture: /images/guillaume-photo.jpg
+  avatar: /images/guillaume-photo.jpg
   twitter: "https://www.linkedin.com/in/gmoog/"
   links:
     - title: LinkedIn
