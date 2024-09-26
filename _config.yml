@@ -91,7 +91,7 @@ defaults:
 
 # Site Author
 author: 
-  name:
+  name: Guillaume M.
   picture:
   email: 
   twitter:
@@ -100,8 +100,33 @@ author:
       url:
       icon:
 
+
 # Footer Links
 footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+
+# Site owner
+owner:
+  name: #Stan Development Team
+  avatar: #ulam-fermiac.pdf
+  email: #stan@mc-stan.org
+  disqus-shortname:
+  twitter: #mcmc_stan
+  facebook: #username
+  github: #stan-dev
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
+  google:
+    plus: #username
+    analytics: #UA-65151620-1
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
